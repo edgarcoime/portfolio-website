@@ -6,16 +6,16 @@ export default {
     {
       name: "name",
       title: "Name",
-      type: "string",
+      type: "string"
     },
     {
       name: "company",
       title: "Company",
-      type: "string",
+      type: "string"
     },
     {
-      name: "imgurl",
-      title: "ImgUrl",
+      name: "imageurl",
+      title: "ImageURL",
       type: "image",
       options: {
         hotspot: true,
@@ -24,7 +24,7 @@ export default {
     {
       name: "feedback",
       title: "Feedback",
-      type: "string",
+      type: "string"
     },
-  ],
-};
+  ]
+}

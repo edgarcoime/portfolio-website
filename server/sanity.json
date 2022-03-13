@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "edgar_portfolio"
+    "name": "edgarcoime_portfolio"
   },
   "api": {
-    "projectId": "g5n8s3nc",
+    "projectId": "d59mgvyk",
     "dataset": "production"
   },
   "plugins": [
