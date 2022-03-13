@@ -10,8 +10,6 @@ import Work from "$lib/components/work.svelte";
 console.log("Hello world!");
 </script>
 
-<h1 class="text-3xl font-bold underline bg-red-500">Portfolio!</h1>
-
 <div>
   <Navbar />
   <Header />
